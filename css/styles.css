@@ -563,7 +563,9 @@ color: #434455;
   background-color: #404bbf;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
+.icon-send-btn{
+  margin-left: 16px;
+}
 
 
 /* ============ ORDER-OVERLAY ============ */
